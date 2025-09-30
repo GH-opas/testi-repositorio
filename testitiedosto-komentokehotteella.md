@@ -1,1 +1,1 @@
-Tiedosto luotu gitin testaustavarten git bashillä
+Tiedosto luotu gitin testaustavarten git bashillä.
