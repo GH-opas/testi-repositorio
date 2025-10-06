@@ -1,0 +1,1 @@
+Tiedosto luotu gitin testausta varten Android Studiolla.
